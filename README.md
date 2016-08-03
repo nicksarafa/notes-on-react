@@ -1,4 +1,10 @@
-# JSX
+# notes-on-react
+
+Notes on my adventure into the world of React, React-Native, and Redux beginning on July 30th, 2016
+
+***
+
+## JSX
 
 #### Single line variables
 
