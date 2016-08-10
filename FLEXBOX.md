@@ -1,5 +1,5 @@
 # FlexBox
-### align-content (alignContent)
+### align-content __no react-native prop__
 #### Sets the spacing between lines, determining how multiple lines are spaced apart from each other
 ##### If there is only one (1) line, align-content does __nothing__
 * center: Lines are packed at the vertical center of the container.
