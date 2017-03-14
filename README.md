@@ -1,3 +1,7 @@
+# Needs Review 
+- JSX .map function
+- JSX key(s) mapping
+
 # notes-on-react
 Notes on my adventure into the world of React, React-Native, and Redux beginning on July 30th, 2016
 ***
